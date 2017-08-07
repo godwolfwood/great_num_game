@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red_box{
+    width: 50px; 
+    height: 50px;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.green_box{
+    width: 50px; 
+    height: 50px;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
